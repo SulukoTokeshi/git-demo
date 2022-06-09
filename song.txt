@@ -2,3 +2,6 @@ new content
 
 
 this tex added in new branch (NewBranch)
+
+
+Third text in this file
